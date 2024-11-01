@@ -1,0 +1,3 @@
+[submodule "temporal/edu-101-python-code"]
+	path = temporal/edu-101-python-code
+	url = https://github.com/temporalio/edu-101-python-code
